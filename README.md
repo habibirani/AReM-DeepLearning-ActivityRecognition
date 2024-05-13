@@ -1,5 +1,5 @@
-# Deep-Learning-Project
-This repository contains the code and resources for the Activity Recognition System based on Multisensor Data Fusion (AReM) project, completed as part of the deep learning course (CS7389F) at the Department of Computer Science, Texas State University.
+# AReM-DeepLearning-ActivityRecognition
+This repository contains the code and resources for the Activity Recognition System based on Multisensor Data Fusion (AReM) project, completed as part of the deep learning course (CS7389H) at the Department of Computer Science, Texas State University.
 
 ## Dataset
 The dataset used in this project is titled "Activity Recognition system based on Multisensor data fusion (AReM)" and is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/366/activity+recognition+system+based+on+multisensor+data+fusion+arem). It comprises sensor data collected from wearable devices for activity recognition tasks. Initially, the project identified data leakage in the dataset. To address this issue, preprocessing techniques were employed along with data augmentation methods such as adding noise to generalize the data.
@@ -10,8 +10,8 @@ The dataset used in this project is titled "Activity Recognition system based on
 To set up the project, you need to have Python and PyTorch installed. Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/Habibirani/Deep-Learning-Project.git
-cd Deep-Learning-Project
+git clone https://github.com/Habibirani/AReM-DeepLearning-ActivityRecognitiont.git
+cd AReM-DeepLearning-ActivityRecognition
 conda env create -f environment.yml
 
 ```
