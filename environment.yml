@@ -1,5 +1,5 @@
 
-name: TemporalContext-BayesDL-main
+name: AReM-DeepLearning-ActivityRecognition
 
 # higher channels get priority
 channels:
@@ -10,6 +10,7 @@ channels:
 # Prefer conda dependencies over pip wherever possible
 dependencies:
   - python=3.9
+  - pytorch==2.2.2
   - numpy==1.21.2
   - scipy==1.7.3
   - matplotlib==3.4.3
