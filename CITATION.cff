@@ -5,12 +5,10 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-# Below is the citation for this template repository. Replace it with your own!
-
 
 cff-version: 1.0.0
 title: >-
-  TemporalContext-BayesDL
+  AReM-DeepLearning-ActivityRecognition
 message: >-
   If you find this project or code useful, please consider citing it as below!
 type: software
